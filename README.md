@@ -8,4 +8,3 @@
 - 📫 How to reach me: [Twitter] (https://twitter.com/badbatunde)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do not take carbonated drinks.
--->
