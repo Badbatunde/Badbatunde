@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 😎 I am Babatunde.
+- 🏠 I live in Lagos, Nigeria.
 - 🔭 I’m currently working on Grid
 - 🌱 I’m currently learning SASS
 - 👯 I’m looking to collaborate on HTML and CSS projects
