@@ -8,4 +8,4 @@
 - 💬 Ask me about HTML, CSS and JavaScript.
 - 📫 How to reach me: [Twitter] (https://twitter.com/badbatunde).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I do not take carbonated drinks.
+- ⚡ Fun fact: I do not take carbonated drinks and I love sunglasses.
