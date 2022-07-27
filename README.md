@@ -2,7 +2,7 @@
 - 😎 I am Babatunde.
 - 🏠 I live in Lagos, Nigeria.
 - 🔭 I’m currently working on HTML, CSS and JavaScript.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Bootstrap.
 - 👯 I’m looking to collaborate on HTML, CSS and JavaScript projects.
 - 🤔 I’m looking for help with Front-End Development.
 - 💬 Ask me about HTML, CSS and JavaScript.
