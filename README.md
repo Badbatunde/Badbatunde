@@ -20,3 +20,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badbatunde&theme=neon-palenight&hide_border=true)
 <!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Badbatunde&show_owner=true)](https://github.com/Badbatunde/Badbatunde) -->
 
+
+
+
+
+## Repos
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Calculator&show_owner=true)](https://github.com/Badbatunde/Calculator)
+[![Etch a Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Etch-a-Sketch&show_owner=true)](https://github.com/Badbatunde/Etch-a-Sketch)
+
