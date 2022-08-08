@@ -10,6 +10,11 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not take carbonated drinks and I love sunglasses.
 
+<p align="center">
+  <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/badbatunde?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="HBO's Twitter"/>
+  </a>
+</p>
 
 
 
