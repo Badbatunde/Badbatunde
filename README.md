@@ -14,11 +14,10 @@
   <a href="http://twitter.com/badbatunde">
     <img src="https://img.shields.io/twitter/follow/badbatunde?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="HBO's Twitter"/>
   </a>
-    <a href="https://linkedin.com/in/badbatunde">
+  <a href="https://linkedin.com/in/badbatunde">
       <img
-      src="https://img.shields.io/badge/LinkedIn-HBO-purple?logo=linkedin&logoColor=blue&color=blue"
-    />
-  </a>
+      src="https://img.shields.io/badge/LinkedIn-HBO-purple?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="HBO's LinkedIn"/>
+ </a>
 </p>
 
 
