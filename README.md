@@ -3,7 +3,6 @@
 - 🏠 I live in Lagos, Nigeria.
 - 🔭 I’m currently working with HTML, CSS, Bootstrap and JavaScript.
 - 🌱 I’m currently practicing with JavaScript30 challenge.
-- 🌱 I’m Learning ReactJS.
 - 👯 I’m looking to collaborate on HTML, CSS and JavaScript projects.
 - 🤔 I’m looking for help with Front-End Development.
 - 💬 Ask me about HTML, CSS and JavaScript.
