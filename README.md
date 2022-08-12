@@ -10,6 +10,13 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not take carbonated drinks and I love sunglasses.
 
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=FrontEnd+Engineer...+;Learning!+Working!+Documenting!+%F0%9F%92%A1">
+</p>
+
+---
+
 <p align="center">
   <a href="http://twitter.com/badbatunde">
     <img src="https://img.shields.io/twitter/follow/badbatunde?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="HBO's Twitter"/>
