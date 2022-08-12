@@ -1,13 +1,14 @@
-### Hi there 👋 I am Habeeb B. Oyesile.
-- 🏠 I live in Lagos, Nigeria.
-- 🔭 I’m currently working with HTML, CSS, Bootstrap and JavaScript.
+### <p align='center'> Hi there 👋 I am Habeeb B. Oyesile aka HBO </p>
+
+---
+
+- 🏠 I am based in Lagos, Nigeria.
 - 🌱 I’m currently practicing with JavaScript30 challenge.
 - 👯 I’m looking to collaborate on HTML, CSS and JavaScript projects.
-- 🤔 I’m looking for help with Front-End Development.
-- 💬 Ask me about HTML, CSS and JavaScript.
-- 📫 How to reach me: [Twitter](https://twitter.com/badbatunde)
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I do not take carbonated drinks and I love sunglasses.
+- 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 💬 Ask me about JavaScript and Bootstrap ❤️.
+- 📫 How to reach me: [Twitter](https://twitter.com/badbatunde).
+- ⚡ Fun fact: I do not take carbonated drinks, I love dogs, sunglasses, Music (Afrobeats) and Snooker.
 
 <!-- Typing SVG -->
 <p align="center">
