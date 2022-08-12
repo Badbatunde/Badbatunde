@@ -25,6 +25,12 @@
       <img
       src="https://img.shields.io/badge/LinkedIn-HBO-purple?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="HBO's LinkedIn"/>
  </a>
+  
+<div align="center">
+<a href="https://twitter.com/badbatunde">
+  <img src="https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off"/>
+</a>
+</div>
 </p>
 
 ---
@@ -35,12 +41,7 @@
 <!-- ![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off) -->
 <!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Badbatunde&show_owner=true)](https://github.com/Badbatunde/Badbatunde) -->
 
-<div align="center">
-<a href="https://twitter.com/badbatunde">
-  <img src="https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off"/>
-</a>
-  </div>
-
+---
 
 ## Repos
 [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Calculator&show_owner=true)](https://github.com/Badbatunde/Calculator)
