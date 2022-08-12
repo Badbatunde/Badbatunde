@@ -24,7 +24,7 @@
       <img
       src="https://img.shields.io/badge/LinkedIn-HBO-purple?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="HBO's LinkedIn"/>
  </a>
-  
+ 
 <div align="center">
 <a href="https://twitter.com/badbatunde">
   <img src="https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off"/>
@@ -34,13 +34,19 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Badbatunde&theme=tokyonight&show_icons=true&count_private=true)
+|   ![HBO's github activity graph](https://activity-graph.herokuapp.com/graph?username=badbatunde&theme=rogue) |
+| :---: |
+
+|   ![Github stats](https://github-readme-stats.vercel.app/api?username=Badbatunde&theme=tokyonight&show_icons=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badbatunde&theme=neon-palenight&hide_border=true)
+| :---: |:---: |
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbatunde&theme=tokyonight&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badbatunde&theme=neon-palenight&hide_border=true)
+| :---: |
 
 ---
 
 ## Repos
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Calculator&show_owner=true)](https://github.com/Badbatunde/Calculator)
-[![Etch a Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Etch-a-Sketch&show_owner=true)](https://github.com/Badbatunde/Etch-a-Sketch)
+
+|   [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Calculator&show_owner=true)](https://github.com/Badbatunde/Calculator) |[![Etch a Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Etch-a-Sketch&show_owner=true)](https://github.com/Badbatunde/Etch-a-Sketch)
+| :---: | :---: |
 
