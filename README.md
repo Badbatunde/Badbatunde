@@ -32,10 +32,14 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Badbatunde&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbatunde&theme=default_repocard&title_color=0d6efd")
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badbatunde&theme=neon-palenight&hide_border=true)
-![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off)
+<!-- ![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off) -->
 <!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Badbatunde&show_owner=true)](https://github.com/Badbatunde/Badbatunde) -->
 
-
+<div align="center">
+<a href="https://twitter.com/badbatunde">
+  <img src="https://github-readme-twitter.gazf.vercel.app/api?id=badbatunde&show_reply=off&show_retweet=off"/>
+</a>
+  </div>
 
 
 ## Repos
