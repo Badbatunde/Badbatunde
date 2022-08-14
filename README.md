@@ -17,6 +17,19 @@
 </p>
 
 ---
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>HBO is an energetic, confident and goal-oriented self-taught Developer with a sturdy drive and willingness to acquire knowledge. 
+  Skilled with solving problems with HTML, CSS, Bootstrap and JavaScript! Focused on being a beneficial part of any team I am on and grow together.
+My personal goal is to further my dexterity in Frontend Development, solve difficult problems, work with amazing people and develop cool products.
+I would also like to make a huge impact in the Frontend Industry, continually contribute to Open Source, Learn more and connect with people from the Tech Industry as a whole.
+  </samp>
+  <br> 
+  </p>
+
+---
+
 ## <p align="center"> My Skills </p>
 <div align="center">
 
