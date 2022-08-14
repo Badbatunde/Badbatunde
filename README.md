@@ -68,8 +68,9 @@ I would also like to make a huge impact in the Frontend Industry, continually co
 
 ---
 
-## Repos
+<!-- ## Repos -->
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-|   [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Calculator&show_owner=true)](https://github.com/Badbatunde/Calculator) |[![Etch a Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Etch-a-Sketch&show_owner=true)](https://github.com/Badbatunde/Etch-a-Sketch)
-| :---: | :---: |
+<!-- |   [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Calculator&show_owner=true)](https://github.com/Badbatunde/Calculator) |[![Etch a Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Badbatunde&repo=Etch-a-Sketch&show_owner=true)](https://github.com/Badbatunde/Etch-a-Sketch)
+| :---: | :---: | -->
 
