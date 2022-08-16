@@ -39,6 +39,7 @@ I would also like to make a huge impact in the Frontend Industry, continually co
 
 ---
 
+<!-- Contact Me section-->
 <p align="center">
   <a href="http://twitter.com/badbatunde">
     <img src="https://img.shields.io/twitter/follow/badbatunde?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="HBO's Twitter"/>
@@ -46,6 +47,10 @@ I would also like to make a huge impact in the Frontend Industry, continually co
   <a href="https://linkedin.com/in/badbatunde">
       <img
       src="https://img.shields.io/badge/LinkedIn-HBO-purple?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="HBO's LinkedIn"/>
+ </a>
+  <a href="mailto:hb.oyesile@gmail.com">
+      <img
+      src="https://img.shields.io/badge/Gmail-HBO-purple?label=Gmail&logo=gmail&style=for-the-badge&color=blue" alt="HBO's LinkedIn"/>
  </a>
  
 <div align="center">
