@@ -13,12 +13,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Frontend+Engineer...+;Learning!+Working!+Documenting!+%F0%9F%92%A1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Frontend+Engineer...+;Learning!+Building!+Documenting!+%F0%9F%92%A1">
 </p>
 
 ---
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 WhoAmI</h2>
 <p align="center">
   <samp>HBO is an energetic, confident and goal-oriented self-taught Developer with a sturdy drive and willingness to acquire knowledge. 
   Skilled with solving problems with HTML, CSS, Bootstrap and JavaScript! Focused on being a beneficial part of any team I am on and grow together.
