@@ -62,10 +62,10 @@ I would also like to make a huge impact in the Frontend Development Industry, co
 
 ---
 
-<!-- |   ![HBO's github activity graph](https://activity-graph.herokuapp.com/graph?username=Badbatunde&theme=tokyonight) |
-| :---: | -->
+|   ![HBO's Github activity graph](https://activity-graph.herokuapp.com/graph?username=Badbatunde&theme=tokyonight) |
+| :---: |
 
-|   ![Github stats](https://github-readme-stats.vercel.app/api?username=Badbatunde&theme=tokyonight&show_icons=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badbatunde&theme=neon-palenight&hide_border=true)
+|   ![HBO's Github stats](https://github-readme-stats.vercel.app/api?username=Badbatunde&theme=tokyonight&show_icons=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badbatunde&theme=neon-palenight&hide_border=true)
 | :---: |:---: |
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbatunde&theme=tokyonight&layout=compact)
