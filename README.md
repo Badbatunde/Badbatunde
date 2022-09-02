@@ -3,7 +3,7 @@
 
 ---
 
-- 🏠 I am based in Lagos, Nigeria.
+- 🏠 I'm based in Lagos, Nigeria.
 - 🌱 I’m currently learning React.
 - 💻 I’m looking to collaborate on Frontend Development projects.
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
