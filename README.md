@@ -1,4 +1,4 @@
-### <p align='center'> Hi there 👋 I am Babatunde</p>
+### <p align='center'> Hi there 👋 I am Babátúndé</p>
 <!-- ![hbo](https://user-images.githubusercontent.com/105541302/184447490-f249bc52-23fa-4249-abed-8d8d2b97392b.png) -->
 
 ---
