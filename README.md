@@ -13,7 +13,7 @@
 <!-- Typing SVG -->
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Frontend+Engineer...+;Learning!+Building!+Documenting!+%F0%9F%92%A1"> -->
-<!-- </p> --> -->
+<!-- </p> -->
 
 ---
 
